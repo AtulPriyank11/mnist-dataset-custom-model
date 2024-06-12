@@ -2,7 +2,7 @@
 
 ##  Brief Report:
 Model Architecture: The neural network architecture used for this task is a convolutional neural network (CNN) designed for image classification tasks. It consists of two convolutional layers followed by max-pooling layers and two fully connected layers. The architecture is as follows:
-•	Convolutional Layer 1: Input channels=1 (grayscale images), output channels=32, kernel size=3x3, padding=1
+•	Convolutional Layer 1: Input channels=1 (grayscale images), output channels=32, kernel size=3x3, padding=1 \n
 •	Max-Pooling Layer 1: Pool size=2x2, stride=2
 •	Convolutional Layer 2: Input channels=32, output channels=64, kernel size=3x3, padding=1
 •	Max-Pooling Layer 2: Pool size=2x2, stride=2
