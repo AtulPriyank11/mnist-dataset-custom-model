@@ -33,4 +33,4 @@ These instructions provide guidance on how to interact with the visualization in
 2. Training Process: - Explain the training process, including the optimizer, loss function, and training loop.
 3. Results: - Discuss the accuracy achieved on the test set and any other relevant metrics. 
 4. Instructions on How to Use the Visualisation Interface: - Clear instructions are provided on how to interact with the `visualization_interface.py` script. - Explain the main menu options and their functionalities. 
-5. Visualisation: -  [https://link-to-your-visualization-interface](https://github.com/AtulPriyank11/mnist-dataset-custom-model)
+5. Visualisation: -  [https://link-to-visualization-interface](https://github.com/AtulPriyank11/mnist-dataset-custom-model)
